@@ -1,0 +1,54 @@
+2025-12-02 18:47:50,001-INFO- application started
+2025-12-02 18:47:50,001-DEBUG- starting caluculation:0+0
+2025-12-02 18:47:50,001-INFO- Result:0
+2025-12-02 18:47:50,002-INFO- temperature normal:25 C
+2025-12-02 18:47:51,014-DEBUG- starting caluculation:1+2
+2025-12-02 18:47:51,014-INFO- Result:3
+2025-12-02 18:47:51,014-WARNING- temperature getting high:30 c
+2025-12-02 18:47:52,021-DEBUG- starting caluculation:2+4
+2025-12-02 18:47:52,022-INFO- Result:6
+2025-12-02 18:47:52,022-WARNING- temperature getting high:35 c
+2025-12-02 18:47:53,032-DEBUG- starting caluculation:3+6
+2025-12-02 18:47:53,032-INFO- Result:9
+2025-12-02 18:47:53,032-ERROR- temperature too high:40 c
+2025-12-02 18:47:54,046-DEBUG- starting caluculation:4+8
+2025-12-02 18:47:54,048-INFO- Result:12
+2025-12-02 18:47:54,048-ERROR- temperature too high:45 c
+2025-12-02 18:47:55,058-CRITICAL- critical failure syste, shutting down
+2025-12-02 18:47:55,058-INFO- application ended
+2025-12-09 18:47:09,740-INFO- application started
+2025-12-09 18:47:09,742-DEBUG- starting caluculation:0+0
+2025-12-09 18:47:09,742-INFO- Result:0
+2025-12-09 18:47:09,743-INFO- temperature normal:25 C
+2025-12-09 18:47:10,747-DEBUG- starting caluculation:1+2
+2025-12-09 18:47:10,747-INFO- Result:3
+2025-12-09 18:47:10,747-WARNING- temperature getting high:30 c
+2025-12-09 18:47:11,758-DEBUG- starting caluculation:2+4
+2025-12-09 18:47:11,758-INFO- Result:6
+2025-12-09 18:47:11,758-WARNING- temperature getting high:35 c
+2025-12-09 18:47:12,770-DEBUG- starting caluculation:3+6
+2025-12-09 18:47:12,770-INFO- Result:9
+2025-12-09 18:47:12,770-ERROR- temperature too high:40 c
+2025-12-09 18:47:13,786-DEBUG- starting caluculation:4+8
+2025-12-09 18:47:13,786-INFO- Result:12
+2025-12-09 18:47:13,786-ERROR- temperature too high:45 c
+2025-12-09 18:47:14,799-CRITICAL- critical failure syste, shutting down
+2025-12-09 18:47:14,799-INFO- application ended
+2025-12-09 20:10:17,272-INFO- application started
+2025-12-09 20:10:17,273-DEBUG- starting caluculation:0+0
+2025-12-09 20:10:17,273-INFO- Result:0
+2025-12-09 20:10:17,273-INFO- temperature normal:25 C
+2025-12-09 20:10:18,279-DEBUG- starting caluculation:1+2
+2025-12-09 20:10:18,279-INFO- Result:3
+2025-12-09 20:10:18,279-WARNING- temperature getting high:30 c
+2025-12-09 20:10:19,291-DEBUG- starting caluculation:2+4
+2025-12-09 20:10:19,291-INFO- Result:6
+2025-12-09 20:10:19,291-WARNING- temperature getting high:35 c
+2025-12-09 20:10:20,301-DEBUG- starting caluculation:3+6
+2025-12-09 20:10:20,301-INFO- Result:9
+2025-12-09 20:10:20,301-ERROR- temperature too high:40 c
+2025-12-09 20:10:21,315-DEBUG- starting caluculation:4+8
+2025-12-09 20:10:21,315-INFO- Result:12
+2025-12-09 20:10:21,315-ERROR- temperature too high:45 c
+2025-12-09 20:10:22,324-CRITICAL- critical failure syste, shutting down
+2025-12-09 20:10:22,324-INFO- application ended
